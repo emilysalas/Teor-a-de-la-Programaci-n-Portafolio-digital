@@ -64,7 +64,8 @@ Nombres asociados a variables, constantes o funciones.
 - Simula entradas, analiza resultados y corrige errores.  
 - Se repite hasta obtener resultados correctos.
  <img width="359" height="274" alt="image" src="https://github.com/user-attachments/assets/f80a377d-449d-474d-b154-34398645c97c" />
+ 
  ---
- ---
+ 
 💡Desea regresar? [🔙](Tema1.md)
 
