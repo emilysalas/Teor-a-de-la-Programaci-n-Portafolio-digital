@@ -5,6 +5,7 @@
 ---
 
 📚 **Universidad Nacional de Loja**  
+<img width="404" height="150" alt="image" src="https://github.com/user-attachments/assets/db7b7dbc-6f49-4e1d-ab68-031901a465bd" />
 
 💻 **Carrera:** Computación  
 
