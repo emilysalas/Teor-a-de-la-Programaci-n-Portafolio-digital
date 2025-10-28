@@ -1,0 +1,29 @@
+# Tema 1: Algoritmos, pseudocódigo, diagrama de flujo
+### Algoritmo 📊 
+
+Un algoritmo es un conjunto de instrucciones organizadas de manera lógica y con un número determinado de pasos, que permiten resolver un problema específico.
+
+### Pasos para Resolver Problemas a través de Computadoras y Algoritmos
+
+🎯*Análisis del problema*: 
+Identificar datos de entrada, salida, pasos a seguir y restricciones.
+
+🎯*Diseño del algoritmo*: 
+Utilizar herramientas como pseudocódigo y diagramas de flujo para determinar cómo se realizará la tarea.
+
+🎯*Codificación*: 
+Traducir el algoritmo a código de lenguaje de programación (código fuente).
+
+🎯*Pruebas*: 
+Verificar el funcionamiento del programa y corregir errores.
+
+🎯*Documentación y mantenimiento*: 
+Registrar el proceso y facilitar futuras modificaciones o correcciones.
+
+### 🧮 Clasificación de los Algoritmos
+
+*🖋️ Algoritmos Cualitativos*: 
+Utilizan descripciones a través de frases y palabras, enfocándose en la calidad de los resultados.
+
+*🖋️ Algoritmos Cuantitativos*: 
+Se basan en cálculos o fórmulas matemáticas, centrándose en la cantidad y precisión de los resultados.
