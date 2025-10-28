@@ -1,4 +1,4 @@
-# 🧩 Tema 1: Algoritmos, Pseudocódigo y Diagramas de Flujo
+# 🧩 Tema: Algoritmos, Pseudocódigo y Diagramas de Flujo
 
 ---
 
@@ -81,6 +81,12 @@ Mostrar el resultado en pantalla
 | 🧾 **Pseudocódigo** | 📌 Es una forma de escribir un algoritmo utilizando un lenguaje similar al natural, que describe los pasos a seguir de manera estructurada y clara, sin preocuparse por la sintaxis de un lenguaje de programación específico. Representa los pasos de forma textual, fácil de leer y entender. | <img width="830" height="908" alt="image" src="https://github.com/user-attachments/assets/0654bd08-ff54-4bae-820c-9911f57fa54c" />
  .|
 | 🔄 **Diagrama de Flujo** | 📌 Utilizan símbolos gráficos para representar los pasos del algoritmo. Cada símbolo tiene un significado específico (por ejemplo, un óvalo para el inicio y fin, un rectángulo para procesos, y un rombo para decisiones), lo que permite visualizar el flujo de control y la secuencia de operaciones. | <img width="561" height="951" alt="image" src="https://github.com/user-attachments/assets/5d1b64fe-a831-4d44-b1d7-258a35f0b7dc" />
- 
+
+---
+
+## 📚 Temas Aprendidos en Clase
+🧮 [Presentación Elementos básicos de algoritmos y programas](Tema2.md)
+
+
 ---
 💡Desea regresar? [🔙](Unidad1.md)
