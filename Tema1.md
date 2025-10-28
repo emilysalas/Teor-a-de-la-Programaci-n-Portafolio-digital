@@ -42,6 +42,8 @@ Son los **resultados finales** obtenidos después de ejecutar los procesos del a
 Estos resultados pueden mostrarse en pantalla, almacenarse o utilizarse para otros cálculos.  
 📤 **Ejemplo:** Mostrar la suma total, imprimir un reporte, generar una respuesta.
 
+<img width="473" height="257" alt="image" src="https://github.com/user-attachments/assets/8167bfcd-736f-477f-9c67-e02126fd3fc9" />
+
 ---
 
 ## 🧮 Clasificación de los Algoritmos
