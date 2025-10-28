@@ -1,4 +1,3 @@
-# Refl exión crítica de los aprendizajes de la unidad
 ---
 # 💭 Reflexión crítica de los aprendizajes de la unidad
 
@@ -10,4 +9,5 @@ En conjunto, esta unidad contribuyó significativamente al desarrollo de mi **au
 
 <img width="509" height="266" alt="image" src="https://github.com/user-attachments/assets/1f2ac5e1-dd88-4817-8f37-defeb9dd2bf3" />
 
-
+---
+💡Desea regresar? [🔙](Unidad1.md)
