@@ -9,3 +9,6 @@ El uso de la IA se limitó a las siguientes actividades:
 - **🔖 Estructuración de información:** se pidió apoyo para organizar la información en formato Markdown y bloques de código, con el fin de facilitar la presentación en la plataforma GitHub. 
 
 Aclaro que **todo el contenido fue revisado, adaptado y editado por mí**, y que la intervención de la inteligencia artificial sirvió como herramienta de apoyo para pulir la redacción y organización.
+
+---
+💡Desea regresar? [🔙](index.md)
