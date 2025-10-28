@@ -20,6 +20,29 @@ Es la base de todo proceso computacional y constituye el punto de partida para e
 | 🧾 **Documentación y mantenimiento** | Registrar el proceso, mejorar la comprensión y facilitar futuras modificaciones. |
 
 ---
+## ⚙️ Partes Esenciales de un Algoritmo
+---
+
+### 🔹 **1. Entradas (Input)**
+Son los **datos o información inicial** que el algoritmo necesita para comenzar su ejecución.  
+Pueden provenir del usuario, de sensores, archivos o de otros programas.  
+📥 **Ejemplo:** Números a sumar, nombres a registrar, valores a calcular.
+
+---
+
+### 🔹 **2. Procesos (Process)**
+Representan las **operaciones, cálculos o transformaciones** que se realizan sobre las entradas para alcanzar una solución.  
+Es la parte donde el algoritmo **aplica la lógica** definida.  
+⚙️ **Ejemplo:** Realizar una suma, ordenar datos, comparar valores.
+
+---
+
+### 🔹 **3. Salidas (Output)**
+Son los **resultados finales** obtenidos después de ejecutar los procesos del algoritmo.  
+Estos resultados pueden mostrarse en pantalla, almacenarse o utilizarse para otros cálculos.  
+📤 **Ejemplo:** Mostrar la suma total, imprimir un reporte, generar una respuesta.
+
+---
 
 ## 🧮 Clasificación de los Algoritmos
 
