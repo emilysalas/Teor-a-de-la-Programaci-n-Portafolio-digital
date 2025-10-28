@@ -99,3 +99,6 @@ suma → variable que se mostrará
 
 <img width="410" height="253" alt="image" src="https://github.com/user-attachments/assets/06b80c6f-e3a8-4fc6-9030-9866ba374dcd" />
 
+---
+
+💡Desea regresar? [🔙](Tema1.md)
