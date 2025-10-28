@@ -1,10 +1,15 @@
 # 📒 Unidad 1
-## Contenidos 
-### Tema 1
-[Algoritmos, pseudocódigo, diagrama de flujo](Tema1.md)
-### ● Programación por bloques
-### ● Ejemplos de algoritmos con estructuras lineales/secuenciales
-### ● Principales dificultades en la aplicación de los contenidos
-### ● Reflexión crítica de los aprendizajes de la unidad
-## Tareas Entregadas
-https://drive.google.com/drive/folders/1-cQZ-Kqn8GfTBBV5RKtuSyZaklMX-XKH?usp=drive_link
+---
+## 🧩 Contenidos de la Unidad
+
+| Nº | Tema | Descripción |
+|:--:|:------|:-------------|
+| 1️⃣ | [**Algoritmos, Pseudocódigo y Diagramas de Flujo**](Tema1.md) | Introducción a los principios básicos para la resolución lógica de problemas. |
+| 2️⃣ | **Programación por Bloques** | Uso de entornos visuales (como Scratch o Blockly) para desarrollar la lógica computacional. |
+| 3️⃣ | **Ejemplos de Algoritmos Lineales o Secuenciales** | Análisis de estructuras simples paso a paso con entradas, procesos y salidas. |
+| 4️⃣ | **Principales Dificultades en la Aplicación de los Contenidos** | Reflexión sobre los desafíos comunes en la comprensión de algoritmos. |
+| 5️⃣ | **Reflexión Crítica de los Aprendizajes** | Valoración personal del proceso de aprendizaje y su impacto en la formación profesional. |
+
+## 📂 Tareas Entregadas
+
+📎 [**Acceder al repositorio de tareas**](https://drive.google.com/drive/folders/1-cQZ-Kqn8GfTBBV5RKtuSyZaklMX-XKH?usp=drive_link)
