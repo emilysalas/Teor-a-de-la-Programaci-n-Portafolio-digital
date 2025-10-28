@@ -32,4 +32,5 @@ Este portafolio digital reúne las principales actividades, prácticas y tareas 
 ### 📒 Unidad 3
 ### Conclusiones
 ### Referencias
+[Referencias](Referencias.md)
 ### ✏️ Uso de la IA Generativa
