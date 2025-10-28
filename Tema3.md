@@ -44,3 +44,6 @@
 > 2️⃣ Programa → código ejecutable  
 > 3️⃣ Lenguaje de alto nivel → fuente del programa  
 > 4️⃣ IDE → herramienta para escribir y gestionar código eficientemente
+
+---
+💡Desea regresar? [🔙](Tema1.md)
