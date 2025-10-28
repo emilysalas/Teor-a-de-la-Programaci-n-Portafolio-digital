@@ -87,7 +87,7 @@ Mostrar el resultado en pantalla
 ## 📚 Temas Aprendidos en Clase
 🧮 [Presentación Elementos básicos de algoritmos y programas](Tema2.md)
 
-📲 [Herramientas para Programación](Tema3.dm)
+📲 [Herramientas para Programación](Tema3.md)
 
 ---
 💡Desea regresar? [🔙](Unidad1.md)
