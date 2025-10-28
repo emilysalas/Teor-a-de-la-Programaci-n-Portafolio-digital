@@ -34,3 +34,4 @@ Este portafolio digital reúne las principales actividades, prácticas y tareas 
 ### Referencias
 [Referencias](Referencias.md)
 ### ✏️ Uso de la IA Generativa
+[Declaración de Uso de IA](Declaracion.md)
