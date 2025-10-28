@@ -39,3 +39,6 @@ Existen muchas herramientas para programación por bloques. Algunas de las más 
 - Usa colores y categorías de bloques para **organizar tu código visualmente**.  
 - Empieza con **proyectos pequeños** y aumenta la complejidad gradualmente.  
 - Combina **loops, condicionales y eventos** para hacer tus programas más dinámicos.  
+
+---
+💡Desea regresar? [🔙](Unidad1.md)
