@@ -7,7 +7,7 @@
 | 2️⃣ | [**Programación por Bloques**](Bloques.md) | Uso de entornos visuales para desarrollar la lógica computacional. |
 | 3️⃣ | [**Ejemplos de Algoritmos Lineales o Secuenciales**](Ejemplos.md) | Análisis de estructuras simples paso a paso con entradas, procesos y salidas. |
 | 4️⃣ | [**Principales Dificultades en la Aplicación de los Contenidos**](Problemas.md) | Reflexión sobre los desafíos comunes en la comprensión de algoritmos. |
-| 5️⃣ | **Reflexión Crítica de los Aprendizajes** | Valoración personal del proceso de aprendizaje y su impacto en la formación profesional. |
+| 5️⃣ | [**Reflexión Crítica de los Aprendizajes**](Reflexion.md) | Valoración personal del proceso de aprendizaje y su impacto en la formación profesional. |
 
 ## 📂 Tareas Entregadas
 
