@@ -83,3 +83,4 @@ Mostrar el resultado en pantalla
 | 🔄 **Diagrama de Flujo** | 📌 Utilizan símbolos gráficos para representar los pasos del algoritmo. Cada símbolo tiene un significado específico (por ejemplo, un óvalo para el inicio y fin, un rectángulo para procesos, y un rombo para decisiones), lo que permite visualizar el flujo de control y la secuencia de operaciones. | <img width="561" height="951" alt="image" src="https://github.com/user-attachments/assets/5d1b64fe-a831-4d44-b1d7-258a35f0b7dc" />
  
 ---
+💡Desea regresar? [🔙](Unidad1.md)
