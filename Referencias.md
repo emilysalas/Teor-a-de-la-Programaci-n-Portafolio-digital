@@ -1,7 +1,9 @@
 # 📊 Referencias
 
 ---
+
 💡Desea regresar? [🔙](index.md)
+
 ---
 
 [1] M. M. Arteaga Martínez, Lógica de programación con Pseint. Enfoque práctico, 1ª ed. Fondo Editorial Remington, 2023. [En línea]. Disponible en: https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f
