@@ -1,7 +1,7 @@
 # 📒 Unidad 1
 ## Contenidos 
-### ●Algoritmos, pseudocódigo, diagrama de flujo
-**Algoritmo:** 
+### Tema 1
+[Algoritmos, pseudocódigo, diagrama de flujo](Tema 1.md)
 ### ● Programación por bloques
 ### ● Ejemplos de algoritmos con estructuras lineales/secuenciales
 ### ● Principales dificultades en la aplicación de los contenidos
