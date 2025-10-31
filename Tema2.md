@@ -2,39 +2,31 @@
 
 ---
 
-## 💡 Datos e Información
-- **Datos:** Cifras, letras o palabras que se ingresan al programa como entrada.  
-- **Información:** Resultado procesado de los datos.  
-> Resumen: *Los datos son la materia prima; la información, el producto final.*
-
----
-
 ## 🧮 Tipos de Datos Simples
-- **📍Enteros (int):** Números sin decimales (positivos, negativos o cero). Ej.: 10, -5, 0  
-- **📍Reales (float/double):** Números con decimales. Ej.: 3.14, -0.5  
-- **📍Lógicos (boolean):** Verdadero o falso. Ej.: true, false   
-- **📍Carácter (char):** Un solo carácter entre comillas. Ej.: "a", "3", "#"  
-- **📍Cadena (string):** Secuencia de caracteres. Ej.: "Hola mundo", "Calle 107 #125-48A"
+- **📍Enteros (int):** Números sin decimales (positivos, negativos o cero) [**3**]. Ej.: 10, -5, 0   
+- **📍Reales (float/double):** Números con decimales [**3**]. Ej.: 3.14, -0.5  
+- **📍Lógicos (boolean):** Verdadero o falso [**3**]. Ej.: true, false   
+- **📍Carácter (char):** Un solo carácter entre comillas [**3**]. Ej.: "a", "3", "#"
+- **📍Cadena (string):** Secuencia de caracteres [**3**]. Ej.: "Hola mundo", "Calle 107 #125-48A" 
 
 ---
 
 ## 🏷️ Identificadores
 Nombres asociados a variables, constantes o funciones.  
 - Deben **identificar claramente el objeto** que representan.  
-- Reglas: empezar con letra o guión bajo, sin espacios ni caracteres especiales.
+- Reglas: empezar con letra (mayúsculas o minúsculas) o quión bajo, sin espacios ni caracteres especiales [**4**].
 
 ### 📊 Variables y Constantes
 
 | Tipo | Qué es | Valor | Notas |
 |:-----|:-------|:-----|:-----|
-| **📘Variable** | Almacena valores que pueden **cambiar** durante la ejecución | Modificable | Debe tener nombre, tipo y opcionalmente valor inicial |
-| **📗Constante** | Almacena valores **fijos** durante la ejecución | Inmutable | Se recomienda escribir en **MAYÚSCULAS** para diferenciarlas |
+| **📘Variable** | Almacena valores que pueden **cambiar** durante la ejecución [**4**]. | Modificable | Debe tener nombre, tipo y opcionalmente valor inicial [**4**]. |
+| **📗Constante** | Almacena valores **fijos** durante la ejecución [**4**]. | Inmutable | Se recomienda escribir en **MAYÚSCULAS** para diferenciarlas [**4**]. |
 
 ---
 
 ## 🔄 Asignación
 - Acción de dar un valor a una variable o constante (`=` o `←`).  
-- Debe respetar la compatibilidad de tipos.  
 - Permite almacenar resultados de operaciones matemáticas.
 
 ---
@@ -47,7 +39,7 @@ Nombres asociados a variables, constantes o funciones.
 
 ## 📝 Comentarios
 - Mensajes en el código que **documentan o explican la lógica**, no se ejecutan.  
-- Mejoran legibilidad y mantenimiento.  
+- Mejoran legibilidad y entendimiento.  
 - En C: `//` para línea única, `/* ... */` para varias líneas.
 
 ---
