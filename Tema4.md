@@ -3,7 +3,7 @@
 ---
 
 ## 💻 Codificación
-- Convertir un **algoritmo a código** no es solo traducir palabras; incluye:
+- Convertir un **algoritmo a código** no es solo traducir palabras; incluye [6]:
   - Declaración de **variables y constantes**  
   - Inclusión de **librerías**  
 - El código resultante se almacena en un **programa fuente**.  
@@ -55,7 +55,9 @@ string → cadena de caracteres
 Se usa el signo = para asignar valores:
 
 a = a + 5;
+
 sueldo = 450;
+
 estadoCivil = 'D';
 
 
@@ -97,7 +99,7 @@ suma → variable que se mostrará
 
 ---
 
-<img width="410" height="253" alt="image" src="https://github.com/user-attachments/assets/06b80c6f-e3a8-4fc6-9030-9866ba374dcd" />
+<img width="732" height="450" alt="image" src="https://github.com/user-attachments/assets/bcb69ca6-774c-48e7-8ee4-b4f62f9ddc5e" />
 
 ---
 
