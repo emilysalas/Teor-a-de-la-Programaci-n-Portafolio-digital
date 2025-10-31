@@ -77,10 +77,9 @@ Mostrar el resultado en pantalla
 
 | Herramienta | Descripción | Ejemplo |
 |:-------------|:------------|:---------------|
-| 🧾 **Pseudocódigo** | 📌 Es una forma de escribir un algoritmo utilizando un lenguaje natural, que describe los pasos a seguir de manera estructurada y clara, sin preocuparse por la sintaxis de un lenguaje de programación específico. Representa los pasos de forma textual, fácil de leer y entender [**2**]. | <img width="1065" height="1180" alt="image" src="https://github.com/user-attachments/assets/e0df9207-ccb7-41bb-bd39-9559646b4902" />
+| 🧾 **Pseudocódigo** | 📌 Es una forma de escribir un algoritmo utilizando un lenguaje natural. Representa los pasos de forma textual, fácil de leer y entender [**2**]. | <img width="1022" height="1143" alt="image" src="https://github.com/user-attachments/assets/25a67a80-08a8-45d1-ad2b-115cc0cec973" />
 | .|
-| 🔄 **Diagrama de Flujo** | 📌 Utilizan símbolos gráficos para representar los pasos del algoritmo. Cada símbolo tiene un significado específico (por ejemplo, un óvalo para el inicio y fin, un rectángulo para procesos, y un rombo para decisiones), lo que permite visualizar el flujo de control y la secuencia de operaciones [**2**]. | <img width="523" height="914" alt="image" src="https://github.com/user-attachments/assets/4b063ee7-4688-42d1-b5c2-3f63949d4700" />
-
+| 🔄 **Diagrama de Flujo** | 📌 Utilizan símbolos gráficos para representar los pasos del algoritmo, lo que permite visualizar el flujo de control y la secuencia de operaciones [**2**]. | <img width="518" height="922" alt="image" src="https://github.com/user-attachments/assets/8fb14e19-1253-40f8-be08-a782136092f6" />
 
 ---
 
