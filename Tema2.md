@@ -55,6 +55,11 @@ Nombres asociados a variables, constantes o funciones.
 - Método manual para **validar algoritmos paso a paso**.  
 - Simula entradas, analiza resultados y corrige errores.  
 - Se repite hasta obtener resultados correctos.
+
+**Ejemplo:** La siguiente *Tabla 1* es una prueba de escritorio corresponde a un algoritmo de suma de dos números.
+
+*Tabla 1*
+
  <img width="359" height="274" alt="image" src="https://github.com/user-attachments/assets/f80a377d-449d-474d-b154-34398645c97c" />
  
  ---
