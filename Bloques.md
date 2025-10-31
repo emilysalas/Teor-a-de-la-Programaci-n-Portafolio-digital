@@ -3,7 +3,7 @@
 ---
 
 ## ❓ ¿Qué es la programación por bloques?
-La **programación por bloques** consiste en **mover, ensamblar y conectar bloques de código** de manera lógica para que un programa cumpla una tarea específica.  
+La **programación por bloques** consiste en **mover, ensamblar y conectar bloques de código** de manera lógica para que un programa cumpla una tarea específica [6].  
 - Es ideal para **aprender la lógica de programación** sin preocuparse por la sintaxis.  
 - Las interfaces son **intuitivas, visuales y fáciles de usar**, ideales para niños, jóvenes y principiantes.  
 - Permite crear **juegos, animaciones, simulaciones y proyectos interactivos** de manera rápida.
@@ -11,7 +11,7 @@ La **programación por bloques** consiste en **mover, ensamblar y conectar bloqu
 ---
 
 ## 🛠️ Plataformas Populares
-Existen muchas herramientas para programación por bloques. Algunas de las más utilizadas son:
+Existen muchas herramientas para programación por bloques. Algunas de las más utilizadas son [6]:
 
 | 🖥️ Plataforma | 🔹 Descripción |
 |:---------------|:---------------|
@@ -28,10 +28,10 @@ Existen muchas herramientas para programación por bloques. Algunas de las más 
 ---
 
 ## 🌟 Ventajas de la Programación por Bloques
-- ✅ **Aprendizaje rápido y divertido**: se enfoca en la lógica, no en la sintaxis.  
-- ✅ **Reduce errores**: los bloques solo encajan correctamente, evitando fallos comunes.  
-- ✅ **Creatividad y pensamiento lógico**: fomenta la resolución de problemas de manera visual.  
-- ✅ **Transición a código real**: muchos proyectos de bloques pueden convertirse en código de texto posteriormente.  
+- ✅ **Aprendizaje rápido y divertido**: se enfoca en la lógica, no en la sintaxis [6].  
+- ✅ **Reduce errores**: los bloques solo encajan correctamente, evitando fallos comunes [6].  
+- ✅ **Creatividad y pensamiento lógico**: fomenta la resolución de problemas de manera visual [6].  
+- ✅ **Transición a código real**: muchos proyectos de bloques pueden convertirse en código de texto posteriormente [6].  
 
 ---
 
