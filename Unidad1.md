@@ -11,6 +11,13 @@
 
 ## 📂 Tareas Entregadas
 
-📎 [**Acceder al repositorio de tareas**](https://drive.google.com/drive/folders/1-cQZ-Kqn8GfTBBV5RKtuSyZaklMX-XKH?usp=drive_link)
+📎[**APE 1. Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo**](https://drive.google.com/file/d/1MMKz7EbYDy-YUIhSTqFMl774snYpKTrH/view?usp=sharing)
+
+📎[**APE 2. Del diseño del algoritmo con estructuras secuenciales a la construcción del programa**](https://drive.google.com/file/d/1q86G4KZcRZtFLH2jlJaczwFhynoXBVEW/view?usp=sharing)
+
+📎[**AA 1. Herramientas digitales para pseudocódigo y diagramas de flujo**](https://drive.google.com/file/d/1D8enQc-PJT3PsmZFy0ibkMo-esLkjxvX/view?usp=sharing)
+
+📎[**AA 2. Instalación de lenguajes de programación**](https://drive.google.com/file/d/1xNG20VUoEviytk16MXnP7UjzwcMMBd5E/view?usp=sharing)
+
 ---
 💡Desea regresar? [🔙](index.md)
