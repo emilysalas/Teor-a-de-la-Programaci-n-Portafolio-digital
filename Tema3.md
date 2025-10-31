@@ -11,15 +11,15 @@
 ---
 
 ## 🖥️ Lenguaje de Alto Nivel
-- Programas escritos en **lenguajes de alto nivel** se llaman **programa fuente**.  
-- Ejemplos: C/C++, Python, Java, Visual Basic, Pascal, PHP, Fortran.  
-- **No son directamente entendibles por la máquina**, por lo que necesitan traducción.  
+- Programas escritos en **lenguajes de alto nivel** se llaman **programa fuente** [5].  
+- Ejemplos: C/C++, Python, Java, Visual Basic, Pascal, PHP, Fortran [5].  
+- **No son directamente entendibles por la máquina**, por lo que necesitan traducción [5].  
 
 ### Tipos de Lenguajes
 | Tipo | Qué es | Ejemplos |
 |:----|:------|:--------|
-| **Compilado** | Se traduce a un programa objeto antes de ejecutar | C, C++, Fortran |
-| **Interpretado** | Se traduce en tiempo real mediante un intérprete | Python, JavaScript |
+| **Compilado** | Se traduce a un programa objeto antes de ejecutar [5]. | C, C++, Fortran |
+| **Interpretado** | Se traduce en tiempo real mediante un intérprete [5]. | Python, JavaScript |
 
 > Ambos son lenguajes de **alto nivel**, diseñados para ser más comprensibles para humanos.
 
