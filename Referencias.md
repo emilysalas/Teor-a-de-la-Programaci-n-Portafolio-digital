@@ -6,24 +6,21 @@
 
 ---
 
-[1] M. M. Arteaga Martínez, Lógica de programación con Pseint. Enfoque práctico, 1ª ed. Fondo Editorial Remington, 2023. [En línea]. Disponible en: https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f
+## Unidad 1
 
-[2] B. d. Castillo, «Programación por bloques: la forma más fácil y divertida para que tus hijos aprendan a programar,» smartick.es, [En línea]. Available: https://www.smartick.es/blog/programacion/programacion-por-bloques/#:~:text=La%20programaci%C3%B3n%20por%20bloques%20es%20un%20sistema%20en%20el%20que,por%20bloques%20en%20Smartick%20Coding.[Último acceso: 27 Octubre 2025].
+[1] M. Hobby, “Fases de Resolución de Un Problema (Computacional),” Scribd. https://es.scribd.com/document/374926537/Fases-de-Resolucion-de-Un-Problema-Computacional#:~:text=Un%20Problema%20(Computacional)-,El%20proceso%20de%20resoluci%C3%B3n%20de%20problemas%20computacionales%20consta%20de%207,errores%20y%20documentar%20el%20proceso.
 
-[3] R. J. Celi Párraga, M. F. Bone Andrade y A. P. Mora Olivero, Programación Web: del Frontend al Backend. Editorial Grupo AEA, 2023. [En línea]. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=933116
+[2] A. Robledano, “Qué es pseudocódigo y por qué es esencial en programación,” OpenWebinars.net, Sep. 23, 2024. https://openwebinars.net/blog/que-es-pseudocodigo/#:~:text=El%20pseudoc%C3%B3digo%20es%20una%20descripci%C3%B3n,de%20un%20lenguaje%20de%20programaci%C3%B3n.
 
-[4] J. M. Dueñas Meza, J. J. Valdés Benjumea y M. C. Rodríguez Niño, Didáctica para el aprendizaje de algoritmos. Universidad Nacional Abierta y a Distancia – UNAD, 2021. [En línea]. Disponible en: https://www.digitaliapublishing.com/a/133651/didactica-para-el-aprendizaje-de-algoritmos
+[3] L. Vega, “Tipos de datos en programación: lo que tenés que saber,” Onmex, Aug. 28, 2025. https://onmex.mx/tecnologia-y-desarrollo/cuales-son-los-tipos-de-datos-en-programacion/
 
-[5] E. N. Figueroa Piscoya, I. Maldonado Ramírez y R. C. Santa Cruz Acosta, Fundamentos de programación. Biblioteca Nacional del Perú, 2021. [En línea]. Disponible en: https://virtual.autonoma.edu.pe/uploads/10-03-2023_141635939_ANICAMASILVAJOSECARLOS.pdf
+[4] GeeksforGeeks, “What are Identifiers in Programming?,” GeeksforGeeks, May 23, 2024. https://www.geeksforgeeks.org/software-engineering/what-are-identifiers-in-programming/
 
-[6] E. N. Figueroa Piscoya, I. Maldonado Ramírez y R. C. Santa Cruz Acosta, Fundamentos de programación: Un enfoque práctico. Biblioteca Nacional del Perú, 2021. [En línea]. Disponible en: https://www.academia.edu/103779068/FUNDAMENTOS_DE_PROGRAMACI%C3%93N_Un_enfoque_pr%C3%A1ctico
+[5] L. Ballejos, “¿Qué es un lenguaje de programación de alto nivel? - NinjaOne,” NinjaOne, Feb. 13, 2024. https://www.ninjaone.com/es/it-hub/it-service-management/lenguaje-de-programacion-de-alto-nivel/
 
-[7] J. Galarza y R. Carriel, “Evolución de los sistemas de lenguaje de programación a lo largo de la historia,” E-IDEA Journal of Engineering Science, vol. 4, no. 10, pp. 14–26, 2022. [En línea]. Disponible en: https://revista.estudioidea.org/ojs/index.php/esci/article/view/237
+[6] E. F. P. Superior, “¿Qué es la codificación de datos?: tipos y ejemplos,” ESIC. https://www.esic.edu/rethink/marketing-y-comunicacion/que-es-codificacion-datos-tipos-ejemplos-c
 
-[8] M. Goin, Caminando junto al Lenguaje C. Editorial UNRN, 2022. [En línea]. Disponible en: https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/26/caminando-junto-al-lenguaje-c?tab=getmybooksTab&is_show_data=1
+[7] B. Del Castillo, “Programación por bloques: la forma más fácil y divertida para que tus hijos aprendan a programar - Smartick,” Smartick, Sep. 16, 2025. https://www.smartick.es/blog/programacion/programacion-por-bloques/#:~:text=La%20programaci%C3%B3n%20por%20bloques%20es%20un%20sistema%20en%20el%20que,por%20bloques%20en%20Smartick%20Coding.[Last accessed: Oct 27, 2025].
 
-[9] J. E. Guerra Salazar, M. V. Ramos Valencia y G. E. Vallejo Vallejo, Programando en C desde la práctica: problemas resueltos. Puerto Madero Editorial, 2023. [En línea]. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=933288
 
-[10] E. L. Martín Goin, Problemas y algoritmos: Un enfoque práctico. Editorial UNRN, 2020. [En línea]. Disponible en: https://editorial.unrn.edu.ar/index.php/catalogo/346/view_bl/62/lecturas-de-catedra/94/problemas-y-algoritmos-un-enfoque-practico?tab=getmybooksTab&is_show_data=1
 
-[11] J. M. Toro Bonilla, Fundamentos de programación: JAVA. Universidad de Sevilla, Editorial Universidad de Sevilla, 2022. [En línea]. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=871118
