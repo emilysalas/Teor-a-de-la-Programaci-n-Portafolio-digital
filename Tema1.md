@@ -23,7 +23,7 @@ Un **algoritmo** es un conjunto de pasos lógicos y ordenados que permiten **res
 ---
 
 ### 🔹 **1. Entradas (Input)**
-Son los **datos o información inicial** que proporcionamos al algoritmo para que los utilice en la búsqueda de la solución requerida (Pueden provenir del usuario).  
+Son los **datos o información inicial** que proporcionamos al algoritmo para que los utilice más adelante en el proceso y llegar a la solución requerida (Pueden provenir del usuario).  
 📥 **Ejemplo:** Números a sumar, nombres a registrar, valores a calcular.
 
 ---
