@@ -29,6 +29,7 @@ Este portafolio digital reúne las principales actividades, prácticas y tareas 
 ### 📒 Unidad 1
 [Unidad 1](Unidad1.md)
 ### 📒 Unidad 2
+[Unidad 2](Unidad2.md)
 ### 📒 Unidad 3
 ### Conclusiones
 ### Referencias
