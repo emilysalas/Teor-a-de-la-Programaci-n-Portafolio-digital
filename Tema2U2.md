@@ -148,6 +148,10 @@ instrucciones...
 
 <img width="173" height="160" alt="image" src="https://github.com/user-attachments/assets/751f8077-3e48-4399-a194-143730e02018" />
 
+*Diagrama de Flujo*
+
+<img width="806" height="856" alt="image" src="https://github.com/user-attachments/assets/5f273ab8-af6a-4e2d-b566-4d7ae39ff2f6" />
+
 </details>
 
 ----
@@ -169,6 +173,10 @@ instrucciones...
 
 <img width="297" height="181" alt="image" src="https://github.com/user-attachments/assets/52c6f1b0-7221-49ac-8947-6d523429f2c5" />
 
+*Diagrama en Flujo*
+
+<img width="502" height="863" alt="image" src="https://github.com/user-attachments/assets/293f9688-31d9-4e6b-a9b1-b0b55780fdee" />
+
 </details>
 
 ----
@@ -189,6 +197,10 @@ instrucciones...
 <img width="385" height="37" alt="image" src="https://github.com/user-attachments/assets/25ae2c1b-b9a8-4813-bd73-8d2a00e3a142" />
 
 <img width="388" height="37" alt="image" src="https://github.com/user-attachments/assets/2c94e185-85d2-43ae-9473-11e11618ded4" />
+
+*Diagrama de Flujo*
+
+<img width="690" height="723" alt="image" src="https://github.com/user-attachments/assets/aad85754-975f-495f-b530-1ed706793038" />
 
 </details>
 
