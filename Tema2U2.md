@@ -129,6 +129,28 @@ instrucciones...
 -----
 
 # Ejemplos
+---
+<details>
+<summary>🔍 Ejemplo usando While (🖱️da click )</summary>
+
+--------
+
+**Problema:** Dado un número ingresado por el usuario, el algoritmo muestra en pantalla todos los números desde 1 hasta el número específico que el usuario elijió.
+
+**Código en Lenguaje (C):**
+
+<img width="385" height="460" alt="image" src="https://github.com/user-attachments/assets/0812cd74-648d-4f9f-90aa-835117a2a177" />
+
+
+*Verificación de la ejecución*
+
+<img width="172" height="143" alt="image" src="https://github.com/user-attachments/assets/469003ba-37b4-4b77-9294-64d2ff895477" />
+
+<img width="173" height="160" alt="image" src="https://github.com/user-attachments/assets/751f8077-3e48-4399-a194-143730e02018" />
+
+</details>
+
+----
 
 <details>
 <summary>🔍 Ejemplo usando Do - While (🖱️da click )</summary>
@@ -148,7 +170,9 @@ instrucciones...
 <img width="297" height="181" alt="image" src="https://github.com/user-attachments/assets/52c6f1b0-7221-49ac-8947-6d523429f2c5" />
 
 </details>
+
 ----
+
 <details>
 <summary>🔍 Ejemplo usando For (🖱️da click )</summary>
 
@@ -167,6 +191,7 @@ instrucciones...
 <img width="388" height="37" alt="image" src="https://github.com/user-attachments/assets/2c94e185-85d2-43ae-9473-11e11618ded4" />
 
 </details>
+
 ---
 
 💡Desea regresar? [🔙](Unidad2.md)
