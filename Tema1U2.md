@@ -101,6 +101,10 @@ switch (opcion) {
 
 <img width="590" height="237" alt="image" src="https://github.com/user-attachments/assets/7c453a85-4879-4ed0-b6c2-afc57622c468" />
 
+*Diagrama de Flujo*
+
+<img width="831" height="877" alt="image" src="https://github.com/user-attachments/assets/6741353d-5e60-4298-aec6-165107bded9e" />
+
 </details>
 
 ---
@@ -133,6 +137,11 @@ switch (opcion) {
 ➗ **División**
 
 <img width="283" height="127" alt="image" src="https://github.com/user-attachments/assets/346b4494-743e-4e2a-9102-ae219267783b" />
+
+*Diagrama de Flujo*
+
+<img width="853" height="930" alt="image" src="https://github.com/user-attachments/assets/483c8f4c-02dd-43ca-8a1a-25d4fa257d9a" />
+
 
 </details>
 
