@@ -6,7 +6,7 @@
 | 1️⃣ | [**Estructuras Condicionales**](Tema1U2.md) | Estudio de las decisiones lógicas dentro de un programa mediante el uso de condicionales simples y compuestas. |
 | 2️⃣ | [**Estructuras Repetitivas**](Tema2U2.md) | Análisis y uso de ciclos para ejecutar acciones de manera iterativa, optimizando la solución de problemas. |
 | 3️⃣ | [**Ejercicio Integrado: Condicionales y Repetitivas (Java)**](EjercicioU2.md) | Desarrollo y explicación de un programa que combina ambas estructuras para resolver un problema real. |
-| 4️⃣ | [**Principales Dificultades en la Aplicación de los Contenidos**](Problemas.md) | Identificación y análisis de los retos más comunes al trabajar con algoritmos y lógica de programación. |
+| 4️⃣ | [**Principales Dificultades en la Aplicación de los Contenidos**](ProblemasU2.md) | Identificación y análisis de los retos más comunes al trabajar con algoritmos y lógica de programación. |
 | 5️⃣ | [**Reflexión Crítica de los Aprendizajes**](Reflexion.md) | Evaluación personal del proceso de aprendizaje, avances logrados y aspectos a mejorar. |
 
 ## 📂 Tareas Entregadas
