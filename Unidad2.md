@@ -17,7 +17,7 @@
 
 📎[**AA 1. Diferencias entre los tipos de estructuras condicionales**](https://drive.google.com/file/d/1DZc_SChbMd70F258M_UP3yD_fmmlywtv/view?usp=sharing)
 
-📎[**AA 2. Cuadro comparativo entre las estructuras repetitivas**](https://drive.google.com/file/d/1RxPoPMGe8BlM5qSECyTSlojBTB5YGTX8/view?usp=sharing)
+📎[**AA 2. Cuadro comparativo entre las estructuras repetitivas**](https://drive.google.com/file/d/1qL-zlxSGY5U5mIoG2mw-BMG5kNI34ejm/view?usp=sharing)
 
 ---
 💡Desea regresar? [🔙](index.md)
