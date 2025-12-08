@@ -29,4 +29,23 @@
 [7] B. Del Castillo, “Programación por bloques: la forma más fácil y divertida para que tus hijos aprendan a programar,” Smartick, 16 de sep. de 2025. [En línea]. Disponible en: https://www.smartick.es/blog/programacion/programacion-por-bloques/
 . [Último acceso: 26 de oct. de 2025].
 
+----
+## Unidad 2
 
+[8] EmbeTronicX, “Conditional Statements in C,” EmbeTronicX Tutorials. [En línea]. Disponible en: https://embetronicx.com/tutorials/p_language/c/conditional-statements-in-c/
+
+[9] OnMex, “Estructuras condicionales: qué son y para qué sirven,” OnMex. [En línea]. Disponible en: https://onmex.mx/tecnologia-y-desarrollo/estructuras-condicionales-que-son-y-para-que-sirven/
+
+[10] ScholarHat, “If-Else Statements in C,” ScholarHat Tutorials. [En línea]. Disponible en: https://www.scholarhat.com/tutorial/c/if-else-statements-in-c
+
+[11] Luis Llamas, “Programación condicional: IF – ELSEIF,” Luis Llamas Blog. [En línea]. Disponible en: https://www.luisllamas.es/programacion-condicional-if-elseif/
+
+[12] Alura Cursos, “Duda: ¿Qué diferencia hay entre while, for y do...while?,” app.aluracursos.com. [En línea]. Disponible en: https://app.aluracursos.com/forum/topico-duda-que-diferencia-hay-entre-while-for-y-do-while-155002
+
+[13] Universidad de Valladolid, “Estructura iterativa while,” www2.eii.uva.es. [En línea]. Disponible en: https://www2.eii.uva.es/fund_inf/cpp/temas/6_control_flujo_iterativo/while.html
+
+[14] Codigazo, “Diferencias entre do while, while y for en C,” codigazo.com. [En línea]. Disponible en: https://www.codigazo.com/en-c/diferencia-do-while-for-en-c
+
+[15] Platzi, “¿Qué es un ciclo while, for y do while?,” platzi.com. [En línea]. Disponible en: https://platzi.com/cursos/pensamiento-logico-2020/que-es-un-ciclo-while-for-y-do-while/
+
+[16] Academia San Roque, “Dominando los bucles en Java: while, do…while y for,” academiasanroque.com. [En línea]. Disponible en: https://academiasanroque.com/dominando-los-bucles-en-java-while-do-while-y-for/
