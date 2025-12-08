@@ -148,8 +148,25 @@ instrucciones...
 <img width="297" height="181" alt="image" src="https://github.com/user-attachments/assets/52c6f1b0-7221-49ac-8947-6d523429f2c5" />
 
 </details>
+----
+<details>
+<summary>🔍 Ejemplo usando For (🖱️da click )</summary>
 
+--------
 
+**Problema:** Dado un número entero positivo, mostrar su factorial. El factorial de un número se obtiene multiplicando todos los números enteros positivos que hay entre el 1 y ese número, el programa lo resuelve y muestra el factorial del número ingresado.
+
+**Código en Lenguaje (C):**
+
+<img width="525" height="339" alt="image" src="https://github.com/user-attachments/assets/c7c9675d-ddca-43e2-91bc-67934115dce6" />
+
+*Verificación de la ejecución*
+
+<img width="385" height="37" alt="image" src="https://github.com/user-attachments/assets/25ae2c1b-b9a8-4813-bd73-8d2a00e3a142" />
+
+<img width="388" height="37" alt="image" src="https://github.com/user-attachments/assets/2c94e185-85d2-43ae-9473-11e11618ded4" />
+
+</details>
 ---
 
 💡Desea regresar? [🔙](Unidad2.md)
