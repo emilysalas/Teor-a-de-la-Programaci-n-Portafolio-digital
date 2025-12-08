@@ -73,6 +73,9 @@ switch (opcion) {
 ```
 
 ---
+<img width="975" height="532" alt="image" src="https://github.com/user-attachments/assets/caf63120-90a8-4a38-9bdd-634d18b67bef" />
+
+----
 
 ## 📝 ¿Para qué sirven en la práctica?
 
