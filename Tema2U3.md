@@ -50,6 +50,56 @@ C también permite crear **arreglos de más de dos dimensiones**, conocidos como
 
 ---
 
+# 🧠 Ejemplos de Código en C: Tipos de Arreglos
+
+A continuación se presentan **ejemplos sencillos y comentados** de los principales tipos de arreglos en el lenguaje **C**, con el objetivo de reforzar su comprensión práctica.
+
+---
+
+## 🔹 Arreglo Unidimensional (Vector)
+
+Se utiliza para almacenar una lista de elementos del mismo tipo en una sola dimensión.
+
+### Código
+
+<img width="599" height="319" alt="image" src="https://github.com/user-attachments/assets/c9f8d8f7-4b14-4856-9d59-b90b4996fce5" />
+
+### Salida
+
+<img width="172" height="129" alt="image" src="https://github.com/user-attachments/assets/412656e1-4c07-4e79-a6de-57fd63f0a6e3" />
+
+**📌 Uso común:** listas de datos, calificaciones, edades, contadores.
+
+## 🔹 Arreglo Bidimensional (Matriz)
+
+Permite almacenar datos organizados en filas y columnas, similar a una tabla.
+
+### Código
+
+<img width="491" height="493" alt="image" src="https://github.com/user-attachments/assets/871648ab-9d66-43f3-9e92-019de0c9f597" />
+
+### Salida
+
+<img width="79" height="52" alt="image" src="https://github.com/user-attachments/assets/bf3ff0a2-5691-44f7-81c5-e2abcf553ae6" />
+
+**📌 Uso común:** tablas, matrices matemáticas, registros organizados.
+
+## 🔹 Arreglo Multidimensional
+
+Son arreglos con más de dos dimensiones, utilizados en problemas más complejos.
+
+### Código
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/2cfaf491-3439-49ad-8f9b-4edcc7773572" />
+
+### Salida
+
+<img width="265" height="217" alt="image" src="https://github.com/user-attachments/assets/90af11e0-a489-49c3-9624-8120a1bbc120" />
+
+**📌 Uso común:** simulaciones, gráficos 3D, procesamiento científico.
+
+---
+
 ## 🔤 Cadenas de Caracteres (Strings)
 
 En el lenguaje C **no existe un tipo de dato `String` nativo** [24].  
