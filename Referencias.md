@@ -53,12 +53,12 @@
 ---
 ## Unidad 3
 
-[17] Universidad de Alicante, “Programación Modular,” Fundamentos de Programación. [En línea]. Disponible en: https://rua.ua.es/dspace/bitstream/10045/52562/1/tema3_programacion_modular.pdf. [Último acceso: 23 de may. de 2024].
+[17] Universidad de Alicante, “Programación Modular,” Fundamentos de Programación. [En línea]. Disponible en: https://rua.ua.es/dspace/bitstream/10045/52562/1/tema3_programacion_modular.pdf. 
 
-[18] GeeksforGeeks, “Modular Programming in C,” GeeksforGeeks. [En línea]. Disponible en: https://www.geeksforgeeks.org/modular-programming-in-c/. [Último acceso: 23 de may. de 2024].
+[18] GeeksforGeeks, “Modular Programming in C,” GeeksforGeeks. [En línea]. Disponible en: https://www.geeksforgeeks.org/modular-programming-in-c/.
 
-[19] J. A. Cerrada Somolinos y M. E. Collado Machuca, “El lenguaje C,” en Programación I, UNED. [En línea]. Disponible en: https://www.cursocpascual.com/wp-content/uploads/2016/09/Tema-5-Funciones.pdf. [Último acceso: 23 de may. de 2024].
+[19] J. A. Cerrada Somolinos y M. E. Collado Machuca, “El lenguaje C,” en Programación I, UNED. [En línea]. Disponible en: https://www.cursocpascual.com/wp-content/uploads/2016/09/Tema-5-Funciones.pdf.
 
-[20] Programiz, “C Programming Functions,” Programiz. [En línea]. Disponible en: https://www.programiz.com/c-programming/c-functions. [Último acceso: 23 de may. de 2024].
+[20] Programiz, “C Programming Functions,” Programiz. [En línea]. Disponible en: https://www.programiz.com/c-programming/c-functions. 
 
-[21] Microsoft Learn, “Argumentos de función (C),” Microsoft Documentation. [En línea]. Disponible en: https://learn.microsoft.com/es-es/cpp/c-language/function-arguments. [Último acceso: 23 de may. de 2024].
+[21] Microsoft Learn, “Argumentos de función (C),” Microsoft Documentation. [En línea]. Disponible en: https://learn.microsoft.com/es-es/cpp/c-language/function-arguments.
