@@ -62,3 +62,15 @@
 [20] Programiz, “C Programming Functions,” Programiz. [En línea]. Disponible en: https://www.programiz.com/c-programming/c-functions. 
 
 [21] Microsoft Learn, “Argumentos de función (C),” Microsoft Documentation. [En línea]. Disponible en: https://learn.microsoft.com/es-es/cpp/c-language/function-arguments.
+
+[22] GeeksforGeeks, “Arrays in C,” GeeksforGeeks. [En línea]. Disponible en: https://www.geeksforgeeks.org/arrays-in-c/. [Último acceso: 29 de ene. de 2026].
+
+[23] Universidad Nacional Autónoma de México (UNAM), “Arreglos,” Fundamentos de Programación. [En línea]. Disponible en: http://tiny.cc/arreglos-c-unam. [Último acceso: 29 de ene. de 2026].
+
+[24] Programiz, “C Programming Arrays,” Programiz. [En línea]. Disponible en: https://www.programiz.com/c-programming/c-arrays. [Último acceso: 29 de ene. de 2026].
+
+[25] Microsoft Learn, “Arreglos multidimensionales (C),” Microsoft Documentation. [En línea]. Disponible en: https://learn.microsoft.com/es-es/cpp/c-language/multidimensional-arrays-c. [Último acceso: 29 de ene. de 2026].
+
+[26] Tutorialspoint, “C - Strings,” Tutorials Point. [En línea]. Disponible en: https://www.tutorialspoint.com/cprogramming/c_strings.htm. [Último acceso: 29 de ene. de 2026].
+
+[27] CPlusPlus, “<cstring> (string.h) - C++ Reference,” CPlusPlus. [En línea]. Disponible en: https://cplusplus.com/reference/cstring/. [Último acceso: 29 de ene. de 2026].
