@@ -4,17 +4,17 @@
 
 ### 🧠 ¿Qué es la Modularidad?
 
-La **modularidad** es una técnica fundamental en el diseño de software que consiste en dividir un sistema complejo en partes más pequeñas llamadas **módulos**, los cuales son independientes entre sí y cumplen una función específica [1].  
+La **modularidad** es una técnica fundamental en el diseño de software que consiste en dividir un sistema complejo en partes más pequeñas llamadas **módulos**, los cuales son independientes entre sí y cumplen una función específica [17].  
 
-En el lenguaje **C**, esta idea se aplica principalmente mediante el uso de **funciones** y la organización del código en **archivos fuente (.c)** y **archivos de cabecera (.h)**. Gracias a esta estructura, es posible manejar programas grandes de forma ordenada, reduciendo la complejidad y mejorando la comprensión del código [2].
+En el lenguaje **C**, esta idea se aplica principalmente mediante el uso de **funciones** y la organización del código en **archivos fuente (.c)** y **archivos de cabecera (.h)**. Gracias a esta estructura, es posible manejar programas grandes de forma ordenada, reduciendo la complejidad y mejorando la comprensión del código [18].
 
 ---
 
 ### 🔧 El Rol de las Funciones
 
-Las **funciones** representan los bloques básicos de la modularidad en C. Cada función recibe datos de entrada, realiza un procesamiento específico y puede devolver un resultado [3].  
+Las **funciones** representan los bloques básicos de la modularidad en C. Cada función recibe datos de entrada, realiza un procesamiento específico y puede devolver un resultado [19].  
 
-Su principal ventaja es que permiten **encapsular tareas**, lo que evita la duplicación de instrucciones dentro del programa. De esta manera, una función puede reutilizarse tantas veces como sea necesario sin reescribir su lógica interna, facilitando el **mantenimiento**, la **lectura** y la **organización** del código [4].
+Su principal ventaja es que permiten **encapsular tareas**, lo que evita la duplicación de instrucciones dentro del programa. De esta manera, una función puede reutilizarse tantas veces como sea necesario sin reescribir su lógica interna, facilitando el **mantenimiento**, la **lectura** y la **organización** del código [20].
 
 ---
 
@@ -23,10 +23,10 @@ Su principal ventaja es que permiten **encapsular tareas**, lo que evita la dupl
 El **envío de parámetros** es el mecanismo que permite a una función recibir información para operar. En el lenguaje C existen dos formas principales:
 
 🔹 **Paso por valor**  
-En este método, la función recibe una **copia del dato** almacenada en la pila de memoria. Esto garantiza que la variable original no se modifique de forma accidental, aportando mayor seguridad al programa [5].
+En este método, la función recibe una **copia del dato** almacenada en la pila de memoria. Esto garantiza que la variable original no se modifique de forma accidental, aportando mayor seguridad al programa [21].
 
 🔹 **Paso por referencia**  
-Se implementa mediante **punteros**, enviando la **dirección de memoria** de la variable. Esto permite que la función modifique directamente el valor original, siendo una opción más eficiente cuando se trabaja con grandes volúmenes de datos o estructuras complejas [2].
+Se implementa mediante **punteros**, enviando la **dirección de memoria** de la variable. Esto permite que la función modifique directamente el valor original, siendo una opción más eficiente cuando se trabaja con grandes volúmenes de datos o estructuras complejas [18].
 
 ---
 
@@ -75,9 +75,9 @@ El valor de numero ahora es 15, porque la función accedió directamente a la va
 
 | 🔹 Aspecto | 📌 Descripción |
 |-----------|---------------|
-| 🔁 **Reutilización de código** | Los módulos diseñados de forma general pueden emplearse en distintos proyectos sin cambios significativos, optimizando el tiempo de desarrollo [1]. |
-| 🛠️ **Facilidad de mantenimiento** | Al estar el código dividido en módulos, los errores se pueden localizar y corregir en un solo componente sin afectar al resto del programa [3]. |
-| 👥 **Desarrollo paralelo** | Diferentes programadores pueden trabajar en módulos independientes de manera simultánea, reduciendo el tiempo total de desarrollo del software [4]. |
+| 🔁 **Reutilización de código** | Los módulos diseñados de forma general pueden emplearse en distintos proyectos sin cambios significativos, optimizando el tiempo de desarrollo [17]. |
+| 🛠️ **Facilidad de mantenimiento** | Al estar el código dividido en módulos, los errores se pueden localizar y corregir en un solo componente sin afectar al resto del programa [19]. |
+| 👥 **Desarrollo paralelo** | Diferentes programadores pueden trabajar en módulos independientes de manera simultánea, reduciendo el tiempo total de desarrollo del software [20]. |
 
 ---
 
@@ -85,7 +85,8 @@ El valor de numero ahora es 15, porque la función accedió directamente a la va
 
 | 🔹 Aspecto | 📌 Descripción |
 |-----------|---------------|
-| ⏱️ **Sobrecarga de ejecución** | El uso frecuente de funciones y el paso de parámetros puede generar un pequeño retardo en comparación con un código completamente lineal [5]. |
-| 🧩 **Mayor complejidad inicial** | Se requiere una planificación más detallada para definir correctamente las interfaces y la estructura de los módulos antes de comenzar la programación [1]. |
+| ⏱️ **Sobrecarga de ejecución** | El uso frecuente de funciones y el paso de parámetros puede generar un pequeño retardo en comparación con un código completamente lineal [21]. |
+| 🧩 **Mayor complejidad inicial** | Se requiere una planificación más detallada para definir correctamente las interfaces y la estructura de los módulos antes de comenzar la programación [17]. |
 
 ---
+💡Desea regresar? [🔙](Unidad3.md)
